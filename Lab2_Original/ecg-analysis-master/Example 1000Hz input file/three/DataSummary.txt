@@ -1,0 +1,14 @@
+ Summary of ECG analysis 
+
+BPM = 49.09 
+Number of R peaks = 99 
+Mean RR interval = 1008.193878 
+Full-Width at Half-Maximum = 1 
+Number of outliers = 0 
+
+ Input arguments of the analysis 
+
+Frequency = 1000 Hz 
+Moving average thershold = 0.30 
+minPeakHeight = 0.500 
+minPeakDist = 50 
